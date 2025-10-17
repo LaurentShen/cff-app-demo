@@ -11,7 +11,7 @@
 
 You can download the presentation and related materials here:
 
-- 👉 [Click to download from GitHub](https://github.com/resources/downloads)  
+- 👉 [Click to download from GitHub](https://github.com/LaurentShen/cff-app-demo/tree/main/resources/downloads)  
 - 🌐 [Click to download from external website](https://szr.hk/public/downloads/cff_projects/)
 
 > ⚠️ Replace the above links with your actual repository or website URLs.
