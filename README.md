@@ -2,8 +2,8 @@
 
 > Caring for Friends Mobile App — Supporting delivery operations for a Philadelphia-based nonprofit.
 
-![Project Logo](./resources/images/cff-logo-headline.png)  
-*(Replace with your actual project logo)*
+<!--![Project Logo](./resources/images/cff-logo-headline.png)  -->
+<img src="./resources/images/cff-logo-headline.png" alt="Project Logo" />
 
 ---
 
@@ -75,11 +75,16 @@ UI refers to how users interact with the display and the application on their de
 
 Place your screenshots inside the `images/` folder and insert them like this:
 
-![Welcome Page](./resources/images/welcome_page.jpg)
+<!--![Welcome Page](./resources/images/welcome_page.jpg)
 ![Login Page](./resources/images/login_page.jpg)
 ![Register Page](./resources/images/register_page.jpg)
 ![Map Page](./resources/images/map_page.jpg)
-![Map List Page](./resources/images/mapList_page.jpg)
+![Map List Page](./resources/images/mapList_page.jpg)-->
+<img src="./resources/images/welcome_page.jpg" alt="Welcome Page" />
+<img src="./resources/images/login_page.jpg" alt="Login Page" />
+<img src="./resources/images/register_page.jpg" alt="Register Page" />
+<img src="./resources/images/map_page.jpg" alt="Map Page" />
+<img src="./resources/images/mapList_page.jpg" alt="Map List Page" />
 
 ```markdown
 
