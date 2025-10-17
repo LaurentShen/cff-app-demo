@@ -80,7 +80,7 @@ Place your screenshots inside the `images/` folder and insert them like this:
 ![Register Page](./resources/images/register_page.jpg)
 ![Map Page](./resources/images/map_page.jpg)
 ![Map List Page](./resources/images/mapList_page.jpg)-->
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start">
+<div>
   <img src="./resources/images/cff-logo-headline.png" alt="Project Logo" style="max-width:220px; height:auto;" />
   <img src="./resources/images/welcome_page.jpg" alt="Welcome Page" style="max-width:320px; height:auto;" />
   <img src="./resources/images/login_page.jpg" alt="Login Page" style="max-width:320px; height:auto;" />
@@ -88,7 +88,7 @@ Place your screenshots inside the `images/` folder and insert them like this:
   <img src="./resources/images/map_page.jpg" alt="Map Page" style="max-width:320px; height:auto;" />
   <img src="./resources/images/mapList_page.jpg" alt="Map List Page" style="max-width:320px; height:auto;" />
 </div>
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
+<div>
   <img src="./resources/images/welcome_page.jpg" alt="Welcome Page" style="max-width:250px; height:auto;" />
   <img src="./resources/images/login_page.jpg" alt="Login Page" style="max-width:250px; height:auto;" />
   <img src="./resources/images/register_page.jpg" alt="Register Page" style="max-width:250px; height:auto;" />
