@@ -75,7 +75,11 @@ UI refers to how users interact with the display and the application on their de
 
 Place your screenshots inside the `images/` folder and insert them like this:
 
+![Welcome Page](./resources/images/welcome_page.png)
+![Login Page](./resources/images/login_page.png)
+![Register Page](./resources/images/register_page.png)
+![Map Page](./resources/images/map_page.png)
+![Map List Page](./resources/images/mapList_page.png)
+
 ```markdown
-![Driver Page](./resources/images/welcome_page.png)
-![Admin Page](./resources/images/admin_page.png)
-![Delivery Map](./resources/images/delivery_map.png)
+
