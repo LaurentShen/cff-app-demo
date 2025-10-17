@@ -11,7 +11,7 @@
 
 You can download the presentation and related materials here:
 
-- 👉 [Click to download from GitHub](https://github.com/resources/)  
+- 👉 [Click to download from GitHub](https://github.com/resources/downloads)  
 - 🌐 [Click to download from external website](https://szr.hk/public/downloads/cff_projects/)
 
 > ⚠️ Replace the above links with your actual repository or website URLs.
@@ -71,9 +71,7 @@ UI refers to how users interact with the display and the application on their de
 
 ---
 
-## 🖼️ UI Previews *(Screenshots Placeholder)*
-
-Place your screenshots inside the `images/` folder and insert them like this:
+## 🖼️ UI Previews *(Demo Screenshots)*
 
 <!--![Welcome Page](./resources/images/welcome_page.jpg)
 ![Login Page](./resources/images/login_page.jpg)
