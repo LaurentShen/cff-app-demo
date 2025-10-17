@@ -2,7 +2,7 @@
 
 > Caring for Friends Mobile App — Supporting delivery operations for a Philadelphia-based nonprofit.
 
-![Project Logo](./images/logo.png)  
+![Project Logo](./resources/images/cff-logo-headline.png)  
 *(Replace with your actual project logo)*
 
 ---
@@ -76,6 +76,6 @@ UI refers to how users interact with the display and the application on their de
 Place your screenshots inside the `images/` folder and insert them like this:
 
 ```markdown
-![Driver Page](./images/driver_page.png)
-![Admin Page](./images/admin_page.png)
-![Delivery Map](./images/delivery_map.png)
+![Driver Page](./resources/images/welcome_page.png)
+![Admin Page](./resources/images/admin_page.png)
+![Delivery Map](./resources/images/delivery_map.png)
